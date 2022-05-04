@@ -2,4 +2,4 @@ version: 2
 
 models:
   - name: stg_avengers__avengers_history
-    + schema: staging
+    
